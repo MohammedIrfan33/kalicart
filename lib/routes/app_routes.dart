@@ -10,7 +10,7 @@ import '../bindings/home_bindings.dart';
 import 'app_routes_name.dart';
 
 class AppRoutes {
-  static const initial = Routes.signIn;
+  static const initial = Routes.homeScreen;
 
   static final routes = [
 
